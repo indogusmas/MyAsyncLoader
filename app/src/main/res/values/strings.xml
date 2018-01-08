@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAsyncLoader</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="temperatur">Temperature</string>
+    <string name="nama_kota">Nama Kota</string>
+    <string name="masukkan_nama_kota">Masukan id kota misal Jakarta = 1642911</string>
+    <string name="cari">Cari</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="id_jakarta_bandung_semarang">16422911, 1650357, 1627896</string>
+</resources>
